@@ -25,3 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "SpecialKeywords"
 include(":app")
 include(":specialkeywords")
+
+include(":specialclasses")
